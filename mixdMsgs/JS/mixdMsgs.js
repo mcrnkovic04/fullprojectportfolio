@@ -1,8 +1,8 @@
 const database = {
     beginning: ["It's the most wonderful time for you, ", "Bad news, ", "This is a warning, ", "You better get ready, ", "I hope your calendar is clear, "],
-    horoscopeSign: ["Aquarius, ", "Pisces, ", "Aries, ", "Taurus, ", "Gemini, ", "Cancer, ", "Leo, ", "Virgo, ", "Libra, " , "Scorpio, ", "Sagitarius, ", "Capricorn, "],
+    horoscopeSign: ["Aquarius, ", "Pisces, ", "Aries, ", "Taurus, ", "Gemini, ", "Cancer, ", "Leo, ", "Virgo, ", "Libra, " , "Scorpio, ", "Sagittarius, ", "Capricorn, "],
     timeStamp: ["because today ", "because this month ", "because this week ", "because this year "],
-    ending: ["you're getting married!", "you're getting pregnant!", "you'll lose your job!", "you'll get hit by a car!", "you might lose all your money!", "you'll win the lottery!", "You're getting a puppy!"]
+    ending: ["you're getting married!", "you're getting pregnant!", "you'll lose your job!", "you'll get hit by a car!", "you might lose all your money!", "you'll win the lottery!", "you're getting a puppy!"]
 
 };
 
