@@ -1,22 +1,36 @@
-body {
-    display: grid;
-    grid-template-columns: atuo auto auto;
-    max-width: 100%;
+body{
+    background-color: #3f3f3f;
+    color: #ffffff;
 }
 header {
-    grid-column: 2/ span 3;
-    grid-row: 1;
+    background-color: #FF1801;
     text-align: center;
-    
+    height: 250px;
+    padding: 20px;
+    margin-bottom: 40px;
 }
-
-nav {
-    grid-column: 2/ span 3;
-    grid-row: 2;
-    width: 300px;
-}
-
 img {
-    border-style: solid;
     border-radius: 20px;
+}
+.ispod {
+    text-align: center;
+    color: #ffffff;
+}
+
+a {
+    color: #fff;
+}
+li {
+    display: inline-grid;
+    margin: 0px;
+    text-align: center;
+    padding: 10px;
+}
+
+.podnozje {
+    padding: 10px;
+    height: 100px;
+    text-align: center;
+    color: #fff;
+    background-color: #FF1801;
 }
